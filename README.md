@@ -41,8 +41,10 @@ npm install
 
 ### Dashboard
 ![Dashboard](public/screenshots/dashboard.png)
-(public/screenshots/dashboard2.png)
-(public/screenshots/dashboard3.png)
+
+![Dashboard2](public/screenshots/dashboard2.png)
+
+![Dashboard3](public/screenshots/dashboard3.png)
 
 ### Edit Application
 
