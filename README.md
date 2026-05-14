@@ -40,15 +40,16 @@ npm install
 ## Screenshots
 
 ### Dashboard
-![Dashboard](public/screenshots/dashboard.png)
 
-![Dashboard2](public/screenshots/dashboard2.png)
+![Dashboard](screenshots/dashboard.png)
 
-![Dashboard3](public/screenshots/dashboard3.png)
+![Dashboard2](screenshots/dashboard2.png)
+
+![Dashboard3](screenshots/dashboard3.png)
 
 ### Edit Application
 
-![Edit Page](public/screenshots/edit-page.png)
+![Edit Page](screenshots/edit-page.png)
 
 
 ## Author
