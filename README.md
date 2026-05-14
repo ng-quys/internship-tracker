@@ -2,6 +2,10 @@
 
 A full-stack web application for tracking internship and job applications.
 
+## Live Demo
+
+https://internship-tracker-dashboard-blue.vercel.app
+
 ## Features
 
 - Add new job/internship applications
