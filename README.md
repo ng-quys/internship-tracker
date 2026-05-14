@@ -30,13 +30,28 @@ A full-stack web application for tracking internship and job applications.
 - PostgreSQL / PGlite
 - React Server Actions
 
-## Screenshots
-
-Add screenshots here later.
-
 ## Getting Started
 
 Install dependencies:
 
 ```bash
 npm install
+```
+## Screenshots
+
+### Dashboard
+![Dashboard](public/screenshots/dashboard.png)
+(public/screenshots/dashboard2.png)
+(public/screenshots/dashboard3.png)
+
+### Edit Application
+
+![Edit Page](public/screenshots/edit-page.png)
+
+
+## Author
+
+**Ho Ngoc Quy**
+
+- GitHub: https://github.com/ng-quys
+- Email: hnquy08@gmail.com
